@@ -1,0 +1,14 @@
+{
+  "id": "IN-OR",
+  "name": "Odisha",
+  "capital": "Bhubaneswar",
+  "status": "state",
+  "iso3166": "IN-OR",
+  "population": 41974218,
+  "area_km2": 155707,
+  "districts": 30,
+  "official_languages": [
+    "Odia"
+  ],
+  "region": "east"
+}

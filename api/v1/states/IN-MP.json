@@ -1,0 +1,14 @@
+{
+  "id": "IN-MP",
+  "name": "Madhya Pradesh",
+  "capital": "Bhopal",
+  "status": "state",
+  "iso3166": "IN-MP",
+  "population": 72626809,
+  "area_km2": 308245,
+  "districts": 55,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "central"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "IN-CT",
+  "name": "Chhattisgarh",
+  "capital": "Raipur",
+  "status": "state",
+  "iso3166": "IN-CT",
+  "population": 25540196,
+  "area_km2": 135192,
+  "districts": 33,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "central"
+}

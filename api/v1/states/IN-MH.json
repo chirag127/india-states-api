@@ -1,0 +1,14 @@
+{
+  "id": "IN-MH",
+  "name": "Maharashtra",
+  "capital": "Mumbai",
+  "status": "state",
+  "iso3166": "IN-MH",
+  "population": 112374333,
+  "area_km2": 307713,
+  "districts": 36,
+  "official_languages": [
+    "Marathi"
+  ],
+  "region": "west"
+}

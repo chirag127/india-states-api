@@ -1,0 +1,15 @@
+{
+  "id": "IN-TS",
+  "name": "Telangana",
+  "capital": "Hyderabad",
+  "status": "state",
+  "iso3166": "IN-TS",
+  "population": 35003674,
+  "area_km2": 112077,
+  "districts": 33,
+  "official_languages": [
+    "Telugu",
+    "Urdu"
+  ],
+  "region": "south"
+}

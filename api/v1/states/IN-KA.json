@@ -1,0 +1,14 @@
+{
+  "id": "IN-KA",
+  "name": "Karnataka",
+  "capital": "Bengaluru",
+  "status": "state",
+  "iso3166": "IN-KA",
+  "population": 61095297,
+  "area_km2": 191791,
+  "districts": 31,
+  "official_languages": [
+    "Kannada"
+  ],
+  "region": "south"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "IN-HR",
+  "name": "Haryana",
+  "capital": "Chandigarh",
+  "status": "state",
+  "iso3166": "IN-HR",
+  "population": 25351462,
+  "area_km2": 44212,
+  "districts": 22,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "north"
+}

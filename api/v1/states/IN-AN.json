@@ -1,0 +1,15 @@
+{
+  "id": "IN-AN",
+  "name": "Andaman and Nicobar Islands",
+  "capital": "Port Blair",
+  "status": "union-territory",
+  "iso3166": "IN-AN",
+  "population": 380581,
+  "area_km2": 8249,
+  "districts": 3,
+  "official_languages": [
+    "Hindi",
+    "English"
+  ],
+  "region": "northeast"
+}

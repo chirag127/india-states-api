@@ -1,0 +1,2455 @@
+{
+  "byName": {
+    "a": [
+      "IN-AP",
+      "IN-AR",
+      "IN-AS",
+      "IN-AN"
+    ],
+    "an": [
+      "IN-AP",
+      "IN-AN"
+    ],
+    "and": [
+      "IN-AP",
+      "IN-AN"
+    ],
+    "andh": [
+      "IN-AP"
+    ],
+    "andhr": [
+      "IN-AP"
+    ],
+    "andhra": [
+      "IN-AP"
+    ],
+    "andhra ": [
+      "IN-AP"
+    ],
+    "andhra p": [
+      "IN-AP"
+    ],
+    "andhra pr": [
+      "IN-AP"
+    ],
+    "andhra pra": [
+      "IN-AP"
+    ],
+    "andhra prad": [
+      "IN-AP"
+    ],
+    "andhra prade": [
+      "IN-AP"
+    ],
+    "andhra prades": [
+      "IN-AP"
+    ],
+    "andhra pradesh": [
+      "IN-AP"
+    ],
+    "ar": [
+      "IN-AR"
+    ],
+    "aru": [
+      "IN-AR"
+    ],
+    "arun": [
+      "IN-AR"
+    ],
+    "aruna": [
+      "IN-AR"
+    ],
+    "arunac": [
+      "IN-AR"
+    ],
+    "arunach": [
+      "IN-AR"
+    ],
+    "arunacha": [
+      "IN-AR"
+    ],
+    "arunachal": [
+      "IN-AR"
+    ],
+    "arunachal ": [
+      "IN-AR"
+    ],
+    "arunachal p": [
+      "IN-AR"
+    ],
+    "arunachal pr": [
+      "IN-AR"
+    ],
+    "arunachal pra": [
+      "IN-AR"
+    ],
+    "arunachal prad": [
+      "IN-AR"
+    ],
+    "arunachal prade": [
+      "IN-AR"
+    ],
+    "arunachal prades": [
+      "IN-AR"
+    ],
+    "arunachal pradesh": [
+      "IN-AR"
+    ],
+    "as": [
+      "IN-AS"
+    ],
+    "ass": [
+      "IN-AS"
+    ],
+    "assa": [
+      "IN-AS"
+    ],
+    "assam": [
+      "IN-AS"
+    ],
+    "b": [
+      "IN-BR"
+    ],
+    "bi": [
+      "IN-BR"
+    ],
+    "bih": [
+      "IN-BR"
+    ],
+    "biha": [
+      "IN-BR"
+    ],
+    "bihar": [
+      "IN-BR"
+    ],
+    "c": [
+      "IN-CT",
+      "IN-CH"
+    ],
+    "ch": [
+      "IN-CT",
+      "IN-CH"
+    ],
+    "chh": [
+      "IN-CT"
+    ],
+    "chha": [
+      "IN-CT"
+    ],
+    "chhat": [
+      "IN-CT"
+    ],
+    "chhatt": [
+      "IN-CT"
+    ],
+    "chhatti": [
+      "IN-CT"
+    ],
+    "chhattis": [
+      "IN-CT"
+    ],
+    "chhattisg": [
+      "IN-CT"
+    ],
+    "chhattisga": [
+      "IN-CT"
+    ],
+    "chhattisgar": [
+      "IN-CT"
+    ],
+    "chhattisgarh": [
+      "IN-CT"
+    ],
+    "g": [
+      "IN-GA",
+      "IN-GJ"
+    ],
+    "go": [
+      "IN-GA"
+    ],
+    "goa": [
+      "IN-GA"
+    ],
+    "gu": [
+      "IN-GJ"
+    ],
+    "guj": [
+      "IN-GJ"
+    ],
+    "guja": [
+      "IN-GJ"
+    ],
+    "gujar": [
+      "IN-GJ"
+    ],
+    "gujara": [
+      "IN-GJ"
+    ],
+    "gujarat": [
+      "IN-GJ"
+    ],
+    "h": [
+      "IN-HR",
+      "IN-HP"
+    ],
+    "ha": [
+      "IN-HR"
+    ],
+    "har": [
+      "IN-HR"
+    ],
+    "hary": [
+      "IN-HR"
+    ],
+    "harya": [
+      "IN-HR"
+    ],
+    "haryan": [
+      "IN-HR"
+    ],
+    "haryana": [
+      "IN-HR"
+    ],
+    "hi": [
+      "IN-HP"
+    ],
+    "him": [
+      "IN-HP"
+    ],
+    "hima": [
+      "IN-HP"
+    ],
+    "himac": [
+      "IN-HP"
+    ],
+    "himach": [
+      "IN-HP"
+    ],
+    "himacha": [
+      "IN-HP"
+    ],
+    "himachal": [
+      "IN-HP"
+    ],
+    "himachal ": [
+      "IN-HP"
+    ],
+    "himachal p": [
+      "IN-HP"
+    ],
+    "himachal pr": [
+      "IN-HP"
+    ],
+    "himachal pra": [
+      "IN-HP"
+    ],
+    "himachal prad": [
+      "IN-HP"
+    ],
+    "himachal prade": [
+      "IN-HP"
+    ],
+    "himachal prades": [
+      "IN-HP"
+    ],
+    "himachal pradesh": [
+      "IN-HP"
+    ],
+    "j": [
+      "IN-JH",
+      "IN-JK"
+    ],
+    "jh": [
+      "IN-JH"
+    ],
+    "jha": [
+      "IN-JH"
+    ],
+    "jhar": [
+      "IN-JH"
+    ],
+    "jhark": [
+      "IN-JH"
+    ],
+    "jharkh": [
+      "IN-JH"
+    ],
+    "jharkha": [
+      "IN-JH"
+    ],
+    "jharkhan": [
+      "IN-JH"
+    ],
+    "jharkhand": [
+      "IN-JH"
+    ],
+    "k": [
+      "IN-KA",
+      "IN-KL"
+    ],
+    "ka": [
+      "IN-KA"
+    ],
+    "kar": [
+      "IN-KA"
+    ],
+    "karn": [
+      "IN-KA"
+    ],
+    "karna": [
+      "IN-KA"
+    ],
+    "karnat": [
+      "IN-KA"
+    ],
+    "karnata": [
+      "IN-KA"
+    ],
+    "karnatak": [
+      "IN-KA"
+    ],
+    "karnataka": [
+      "IN-KA"
+    ],
+    "ke": [
+      "IN-KL"
+    ],
+    "ker": [
+      "IN-KL"
+    ],
+    "kera": [
+      "IN-KL"
+    ],
+    "keral": [
+      "IN-KL"
+    ],
+    "kerala": [
+      "IN-KL"
+    ],
+    "m": [
+      "IN-MP",
+      "IN-MH",
+      "IN-MN",
+      "IN-ML",
+      "IN-MZ"
+    ],
+    "ma": [
+      "IN-MP",
+      "IN-MH",
+      "IN-MN"
+    ],
+    "mad": [
+      "IN-MP"
+    ],
+    "madh": [
+      "IN-MP"
+    ],
+    "madhy": [
+      "IN-MP"
+    ],
+    "madhya": [
+      "IN-MP"
+    ],
+    "madhya ": [
+      "IN-MP"
+    ],
+    "madhya p": [
+      "IN-MP"
+    ],
+    "madhya pr": [
+      "IN-MP"
+    ],
+    "madhya pra": [
+      "IN-MP"
+    ],
+    "madhya prad": [
+      "IN-MP"
+    ],
+    "madhya prade": [
+      "IN-MP"
+    ],
+    "madhya prades": [
+      "IN-MP"
+    ],
+    "madhya pradesh": [
+      "IN-MP"
+    ],
+    "mah": [
+      "IN-MH"
+    ],
+    "maha": [
+      "IN-MH"
+    ],
+    "mahar": [
+      "IN-MH"
+    ],
+    "mahara": [
+      "IN-MH"
+    ],
+    "maharas": [
+      "IN-MH"
+    ],
+    "maharash": [
+      "IN-MH"
+    ],
+    "maharasht": [
+      "IN-MH"
+    ],
+    "maharashtr": [
+      "IN-MH"
+    ],
+    "maharashtra": [
+      "IN-MH"
+    ],
+    "man": [
+      "IN-MN"
+    ],
+    "mani": [
+      "IN-MN"
+    ],
+    "manip": [
+      "IN-MN"
+    ],
+    "manipu": [
+      "IN-MN"
+    ],
+    "manipur": [
+      "IN-MN"
+    ],
+    "me": [
+      "IN-ML"
+    ],
+    "meg": [
+      "IN-ML"
+    ],
+    "megh": [
+      "IN-ML"
+    ],
+    "megha": [
+      "IN-ML"
+    ],
+    "meghal": [
+      "IN-ML"
+    ],
+    "meghala": [
+      "IN-ML"
+    ],
+    "meghalay": [
+      "IN-ML"
+    ],
+    "meghalaya": [
+      "IN-ML"
+    ],
+    "mi": [
+      "IN-MZ"
+    ],
+    "miz": [
+      "IN-MZ"
+    ],
+    "mizo": [
+      "IN-MZ"
+    ],
+    "mizor": [
+      "IN-MZ"
+    ],
+    "mizora": [
+      "IN-MZ"
+    ],
+    "mizoram": [
+      "IN-MZ"
+    ],
+    "n": [
+      "IN-NL"
+    ],
+    "na": [
+      "IN-NL"
+    ],
+    "nag": [
+      "IN-NL"
+    ],
+    "naga": [
+      "IN-NL"
+    ],
+    "nagal": [
+      "IN-NL"
+    ],
+    "nagala": [
+      "IN-NL"
+    ],
+    "nagalan": [
+      "IN-NL"
+    ],
+    "nagaland": [
+      "IN-NL"
+    ],
+    "o": [
+      "IN-OR"
+    ],
+    "od": [
+      "IN-OR"
+    ],
+    "odi": [
+      "IN-OR"
+    ],
+    "odis": [
+      "IN-OR"
+    ],
+    "odish": [
+      "IN-OR"
+    ],
+    "odisha": [
+      "IN-OR"
+    ],
+    "p": [
+      "IN-PB",
+      "IN-PY"
+    ],
+    "pu": [
+      "IN-PB",
+      "IN-PY"
+    ],
+    "pun": [
+      "IN-PB"
+    ],
+    "punj": [
+      "IN-PB"
+    ],
+    "punja": [
+      "IN-PB"
+    ],
+    "punjab": [
+      "IN-PB"
+    ],
+    "r": [
+      "IN-RJ"
+    ],
+    "ra": [
+      "IN-RJ"
+    ],
+    "raj": [
+      "IN-RJ"
+    ],
+    "raja": [
+      "IN-RJ"
+    ],
+    "rajas": [
+      "IN-RJ"
+    ],
+    "rajast": [
+      "IN-RJ"
+    ],
+    "rajasth": [
+      "IN-RJ"
+    ],
+    "rajastha": [
+      "IN-RJ"
+    ],
+    "rajasthan": [
+      "IN-RJ"
+    ],
+    "s": [
+      "IN-SK"
+    ],
+    "si": [
+      "IN-SK"
+    ],
+    "sik": [
+      "IN-SK"
+    ],
+    "sikk": [
+      "IN-SK"
+    ],
+    "sikki": [
+      "IN-SK"
+    ],
+    "sikkim": [
+      "IN-SK"
+    ],
+    "t": [
+      "IN-TN",
+      "IN-TS",
+      "IN-TR"
+    ],
+    "ta": [
+      "IN-TN"
+    ],
+    "tam": [
+      "IN-TN"
+    ],
+    "tami": [
+      "IN-TN"
+    ],
+    "tamil": [
+      "IN-TN"
+    ],
+    "tamil ": [
+      "IN-TN"
+    ],
+    "tamil n": [
+      "IN-TN"
+    ],
+    "tamil na": [
+      "IN-TN"
+    ],
+    "tamil nad": [
+      "IN-TN"
+    ],
+    "tamil nadu": [
+      "IN-TN"
+    ],
+    "te": [
+      "IN-TS"
+    ],
+    "tel": [
+      "IN-TS"
+    ],
+    "tela": [
+      "IN-TS"
+    ],
+    "telan": [
+      "IN-TS"
+    ],
+    "telang": [
+      "IN-TS"
+    ],
+    "telanga": [
+      "IN-TS"
+    ],
+    "telangan": [
+      "IN-TS"
+    ],
+    "telangana": [
+      "IN-TS"
+    ],
+    "tr": [
+      "IN-TR"
+    ],
+    "tri": [
+      "IN-TR"
+    ],
+    "trip": [
+      "IN-TR"
+    ],
+    "tripu": [
+      "IN-TR"
+    ],
+    "tripur": [
+      "IN-TR"
+    ],
+    "tripura": [
+      "IN-TR"
+    ],
+    "u": [
+      "IN-UP",
+      "IN-UK"
+    ],
+    "ut": [
+      "IN-UP",
+      "IN-UK"
+    ],
+    "utt": [
+      "IN-UP",
+      "IN-UK"
+    ],
+    "utta": [
+      "IN-UP",
+      "IN-UK"
+    ],
+    "uttar": [
+      "IN-UP",
+      "IN-UK"
+    ],
+    "uttar ": [
+      "IN-UP"
+    ],
+    "uttar p": [
+      "IN-UP"
+    ],
+    "uttar pr": [
+      "IN-UP"
+    ],
+    "uttar pra": [
+      "IN-UP"
+    ],
+    "uttar prad": [
+      "IN-UP"
+    ],
+    "uttar prade": [
+      "IN-UP"
+    ],
+    "uttar prades": [
+      "IN-UP"
+    ],
+    "uttar pradesh": [
+      "IN-UP"
+    ],
+    "uttara": [
+      "IN-UK"
+    ],
+    "uttarak": [
+      "IN-UK"
+    ],
+    "uttarakh": [
+      "IN-UK"
+    ],
+    "uttarakha": [
+      "IN-UK"
+    ],
+    "uttarakhan": [
+      "IN-UK"
+    ],
+    "uttarakhand": [
+      "IN-UK"
+    ],
+    "w": [
+      "IN-WB"
+    ],
+    "we": [
+      "IN-WB"
+    ],
+    "wes": [
+      "IN-WB"
+    ],
+    "west": [
+      "IN-WB"
+    ],
+    "west ": [
+      "IN-WB"
+    ],
+    "west b": [
+      "IN-WB"
+    ],
+    "west be": [
+      "IN-WB"
+    ],
+    "west ben": [
+      "IN-WB"
+    ],
+    "west beng": [
+      "IN-WB"
+    ],
+    "west benga": [
+      "IN-WB"
+    ],
+    "west bengal": [
+      "IN-WB"
+    ],
+    "anda": [
+      "IN-AN"
+    ],
+    "andam": [
+      "IN-AN"
+    ],
+    "andama": [
+      "IN-AN"
+    ],
+    "andaman": [
+      "IN-AN"
+    ],
+    "andaman ": [
+      "IN-AN"
+    ],
+    "andaman a": [
+      "IN-AN"
+    ],
+    "andaman an": [
+      "IN-AN"
+    ],
+    "andaman and": [
+      "IN-AN"
+    ],
+    "andaman and ": [
+      "IN-AN"
+    ],
+    "andaman and n": [
+      "IN-AN"
+    ],
+    "andaman and ni": [
+      "IN-AN"
+    ],
+    "andaman and nic": [
+      "IN-AN"
+    ],
+    "andaman and nico": [
+      "IN-AN"
+    ],
+    "andaman and nicob": [
+      "IN-AN"
+    ],
+    "andaman and nicoba": [
+      "IN-AN"
+    ],
+    "andaman and nicobar": [
+      "IN-AN"
+    ],
+    "andaman and nicobar ": [
+      "IN-AN"
+    ],
+    "andaman and nicobar i": [
+      "IN-AN"
+    ],
+    "andaman and nicobar is": [
+      "IN-AN"
+    ],
+    "andaman and nicobar isl": [
+      "IN-AN"
+    ],
+    "andaman and nicobar isla": [
+      "IN-AN"
+    ],
+    "andaman and nicobar islan": [
+      "IN-AN"
+    ],
+    "andaman and nicobar island": [
+      "IN-AN"
+    ],
+    "andaman and nicobar islands": [
+      "IN-AN"
+    ],
+    "cha": [
+      "IN-CH"
+    ],
+    "chan": [
+      "IN-CH"
+    ],
+    "chand": [
+      "IN-CH"
+    ],
+    "chandi": [
+      "IN-CH"
+    ],
+    "chandig": [
+      "IN-CH"
+    ],
+    "chandiga": [
+      "IN-CH"
+    ],
+    "chandigar": [
+      "IN-CH"
+    ],
+    "chandigarh": [
+      "IN-CH"
+    ],
+    "d": [
+      "IN-DN",
+      "IN-DL"
+    ],
+    "da": [
+      "IN-DN"
+    ],
+    "dad": [
+      "IN-DN"
+    ],
+    "dadr": [
+      "IN-DN"
+    ],
+    "dadra": [
+      "IN-DN"
+    ],
+    "dadra ": [
+      "IN-DN"
+    ],
+    "dadra a": [
+      "IN-DN"
+    ],
+    "dadra an": [
+      "IN-DN"
+    ],
+    "dadra and": [
+      "IN-DN"
+    ],
+    "dadra and ": [
+      "IN-DN"
+    ],
+    "dadra and n": [
+      "IN-DN"
+    ],
+    "dadra and na": [
+      "IN-DN"
+    ],
+    "dadra and nag": [
+      "IN-DN"
+    ],
+    "dadra and naga": [
+      "IN-DN"
+    ],
+    "dadra and nagar": [
+      "IN-DN"
+    ],
+    "dadra and nagar ": [
+      "IN-DN"
+    ],
+    "dadra and nagar h": [
+      "IN-DN"
+    ],
+    "dadra and nagar ha": [
+      "IN-DN"
+    ],
+    "dadra and nagar hav": [
+      "IN-DN"
+    ],
+    "dadra and nagar have": [
+      "IN-DN"
+    ],
+    "dadra and nagar havel": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli ": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli a": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli an": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and ": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and d": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and da": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and dam": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and dama": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman ": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman a": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman an": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman and": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman and ": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman and d": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman and di": [
+      "IN-DN"
+    ],
+    "dadra and nagar haveli and daman and diu": [
+      "IN-DN"
+    ],
+    "de": [
+      "IN-DL"
+    ],
+    "del": [
+      "IN-DL"
+    ],
+    "delh": [
+      "IN-DL"
+    ],
+    "delhi": [
+      "IN-DL"
+    ],
+    "ja": [
+      "IN-JK"
+    ],
+    "jam": [
+      "IN-JK"
+    ],
+    "jamm": [
+      "IN-JK"
+    ],
+    "jammu": [
+      "IN-JK"
+    ],
+    "jammu ": [
+      "IN-JK"
+    ],
+    "jammu a": [
+      "IN-JK"
+    ],
+    "jammu an": [
+      "IN-JK"
+    ],
+    "jammu and": [
+      "IN-JK"
+    ],
+    "jammu and ": [
+      "IN-JK"
+    ],
+    "jammu and k": [
+      "IN-JK"
+    ],
+    "jammu and ka": [
+      "IN-JK"
+    ],
+    "jammu and kas": [
+      "IN-JK"
+    ],
+    "jammu and kash": [
+      "IN-JK"
+    ],
+    "jammu and kashm": [
+      "IN-JK"
+    ],
+    "jammu and kashmi": [
+      "IN-JK"
+    ],
+    "jammu and kashmir": [
+      "IN-JK"
+    ],
+    "l": [
+      "IN-LA",
+      "IN-LD"
+    ],
+    "la": [
+      "IN-LA",
+      "IN-LD"
+    ],
+    "lad": [
+      "IN-LA"
+    ],
+    "lada": [
+      "IN-LA"
+    ],
+    "ladak": [
+      "IN-LA"
+    ],
+    "ladakh": [
+      "IN-LA"
+    ],
+    "lak": [
+      "IN-LD"
+    ],
+    "laks": [
+      "IN-LD"
+    ],
+    "laksh": [
+      "IN-LD"
+    ],
+    "laksha": [
+      "IN-LD"
+    ],
+    "lakshad": [
+      "IN-LD"
+    ],
+    "lakshadw": [
+      "IN-LD"
+    ],
+    "lakshadwe": [
+      "IN-LD"
+    ],
+    "lakshadwee": [
+      "IN-LD"
+    ],
+    "lakshadweep": [
+      "IN-LD"
+    ],
+    "pud": [
+      "IN-PY"
+    ],
+    "pudu": [
+      "IN-PY"
+    ],
+    "puduc": [
+      "IN-PY"
+    ],
+    "puduch": [
+      "IN-PY"
+    ],
+    "puduche": [
+      "IN-PY"
+    ],
+    "puducher": [
+      "IN-PY"
+    ],
+    "puducherr": [
+      "IN-PY"
+    ],
+    "puducherry": [
+      "IN-PY"
+    ]
+  },
+  "byCapital": {
+    "a": [
+      "IN-AP",
+      "IN-MZ",
+      "IN-TR"
+    ],
+    "am": [
+      "IN-AP"
+    ],
+    "ama": [
+      "IN-AP"
+    ],
+    "amar": [
+      "IN-AP"
+    ],
+    "amara": [
+      "IN-AP"
+    ],
+    "amarav": [
+      "IN-AP"
+    ],
+    "amarava": [
+      "IN-AP"
+    ],
+    "amaravat": [
+      "IN-AP"
+    ],
+    "amaravati": [
+      "IN-AP"
+    ],
+    "i": [
+      "IN-AR",
+      "IN-MN"
+    ],
+    "it": [
+      "IN-AR"
+    ],
+    "ita": [
+      "IN-AR"
+    ],
+    "itan": [
+      "IN-AR"
+    ],
+    "itana": [
+      "IN-AR"
+    ],
+    "itanag": [
+      "IN-AR"
+    ],
+    "itanaga": [
+      "IN-AR"
+    ],
+    "itanagar": [
+      "IN-AR"
+    ],
+    "d": [
+      "IN-AS",
+      "IN-UK",
+      "IN-DN"
+    ],
+    "di": [
+      "IN-AS"
+    ],
+    "dis": [
+      "IN-AS"
+    ],
+    "disp": [
+      "IN-AS"
+    ],
+    "dispu": [
+      "IN-AS"
+    ],
+    "dispur": [
+      "IN-AS"
+    ],
+    "p": [
+      "IN-BR",
+      "IN-GA",
+      "IN-AN",
+      "IN-PY"
+    ],
+    "pa": [
+      "IN-BR",
+      "IN-GA"
+    ],
+    "pat": [
+      "IN-BR"
+    ],
+    "patn": [
+      "IN-BR"
+    ],
+    "patna": [
+      "IN-BR"
+    ],
+    "r": [
+      "IN-CT",
+      "IN-JH"
+    ],
+    "ra": [
+      "IN-CT",
+      "IN-JH"
+    ],
+    "rai": [
+      "IN-CT"
+    ],
+    "raip": [
+      "IN-CT"
+    ],
+    "raipu": [
+      "IN-CT"
+    ],
+    "raipur": [
+      "IN-CT"
+    ],
+    "pan": [
+      "IN-GA"
+    ],
+    "pana": [
+      "IN-GA"
+    ],
+    "panaj": [
+      "IN-GA"
+    ],
+    "panaji": [
+      "IN-GA"
+    ],
+    "g": [
+      "IN-GJ",
+      "IN-SK"
+    ],
+    "ga": [
+      "IN-GJ",
+      "IN-SK"
+    ],
+    "gan": [
+      "IN-GJ",
+      "IN-SK"
+    ],
+    "gand": [
+      "IN-GJ"
+    ],
+    "gandh": [
+      "IN-GJ"
+    ],
+    "gandhi": [
+      "IN-GJ"
+    ],
+    "gandhin": [
+      "IN-GJ"
+    ],
+    "gandhina": [
+      "IN-GJ"
+    ],
+    "gandhinag": [
+      "IN-GJ"
+    ],
+    "gandhinaga": [
+      "IN-GJ"
+    ],
+    "gandhinagar": [
+      "IN-GJ"
+    ],
+    "c": [
+      "IN-HR",
+      "IN-PB",
+      "IN-TN",
+      "IN-CH"
+    ],
+    "ch": [
+      "IN-HR",
+      "IN-PB",
+      "IN-TN",
+      "IN-CH"
+    ],
+    "cha": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chan": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chand": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chandi": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chandig": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chandiga": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chandigar": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "chandigarh": [
+      "IN-HR",
+      "IN-PB",
+      "IN-CH"
+    ],
+    "s": [
+      "IN-HP",
+      "IN-ML",
+      "IN-JK"
+    ],
+    "sh": [
+      "IN-HP",
+      "IN-ML"
+    ],
+    "shi": [
+      "IN-HP",
+      "IN-ML"
+    ],
+    "shim": [
+      "IN-HP"
+    ],
+    "shiml": [
+      "IN-HP"
+    ],
+    "shimla": [
+      "IN-HP"
+    ],
+    "ran": [
+      "IN-JH"
+    ],
+    "ranc": [
+      "IN-JH"
+    ],
+    "ranch": [
+      "IN-JH"
+    ],
+    "ranchi": [
+      "IN-JH"
+    ],
+    "b": [
+      "IN-KA",
+      "IN-MP",
+      "IN-OR"
+    ],
+    "be": [
+      "IN-KA"
+    ],
+    "ben": [
+      "IN-KA"
+    ],
+    "beng": [
+      "IN-KA"
+    ],
+    "benga": [
+      "IN-KA"
+    ],
+    "bengal": [
+      "IN-KA"
+    ],
+    "bengalu": [
+      "IN-KA"
+    ],
+    "bengalur": [
+      "IN-KA"
+    ],
+    "bengaluru": [
+      "IN-KA"
+    ],
+    "t": [
+      "IN-KL"
+    ],
+    "th": [
+      "IN-KL"
+    ],
+    "thi": [
+      "IN-KL"
+    ],
+    "thir": [
+      "IN-KL"
+    ],
+    "thiru": [
+      "IN-KL"
+    ],
+    "thiruv": [
+      "IN-KL"
+    ],
+    "thiruva": [
+      "IN-KL"
+    ],
+    "thiruvan": [
+      "IN-KL"
+    ],
+    "thiruvana": [
+      "IN-KL"
+    ],
+    "thiruvanan": [
+      "IN-KL"
+    ],
+    "thiruvanant": [
+      "IN-KL"
+    ],
+    "thiruvananth": [
+      "IN-KL"
+    ],
+    "thiruvanantha": [
+      "IN-KL"
+    ],
+    "thiruvananthap": [
+      "IN-KL"
+    ],
+    "thiruvananthapu": [
+      "IN-KL"
+    ],
+    "thiruvananthapur": [
+      "IN-KL"
+    ],
+    "thiruvananthapura": [
+      "IN-KL"
+    ],
+    "thiruvananthapuram": [
+      "IN-KL"
+    ],
+    "bh": [
+      "IN-MP",
+      "IN-OR"
+    ],
+    "bho": [
+      "IN-MP"
+    ],
+    "bhop": [
+      "IN-MP"
+    ],
+    "bhopa": [
+      "IN-MP"
+    ],
+    "bhopal": [
+      "IN-MP"
+    ],
+    "m": [
+      "IN-MH"
+    ],
+    "mu": [
+      "IN-MH"
+    ],
+    "mum": [
+      "IN-MH"
+    ],
+    "mumb": [
+      "IN-MH"
+    ],
+    "mumba": [
+      "IN-MH"
+    ],
+    "mumbai": [
+      "IN-MH"
+    ],
+    "im": [
+      "IN-MN"
+    ],
+    "imp": [
+      "IN-MN"
+    ],
+    "imph": [
+      "IN-MN"
+    ],
+    "impha": [
+      "IN-MN"
+    ],
+    "imphal": [
+      "IN-MN"
+    ],
+    "shil": [
+      "IN-ML"
+    ],
+    "shill": [
+      "IN-ML"
+    ],
+    "shillo": [
+      "IN-ML"
+    ],
+    "shillon": [
+      "IN-ML"
+    ],
+    "shillong": [
+      "IN-ML"
+    ],
+    "ai": [
+      "IN-MZ"
+    ],
+    "aiz": [
+      "IN-MZ"
+    ],
+    "aiza": [
+      "IN-MZ"
+    ],
+    "aizaw": [
+      "IN-MZ"
+    ],
+    "aizawl": [
+      "IN-MZ"
+    ],
+    "k": [
+      "IN-NL",
+      "IN-WB",
+      "IN-LD"
+    ],
+    "ko": [
+      "IN-NL",
+      "IN-WB"
+    ],
+    "koh": [
+      "IN-NL"
+    ],
+    "kohi": [
+      "IN-NL"
+    ],
+    "kohim": [
+      "IN-NL"
+    ],
+    "kohima": [
+      "IN-NL"
+    ],
+    "bhu": [
+      "IN-OR"
+    ],
+    "bhub": [
+      "IN-OR"
+    ],
+    "bhuba": [
+      "IN-OR"
+    ],
+    "bhuban": [
+      "IN-OR"
+    ],
+    "bhubane": [
+      "IN-OR"
+    ],
+    "bhubanes": [
+      "IN-OR"
+    ],
+    "bhubanesw": [
+      "IN-OR"
+    ],
+    "bhubaneswa": [
+      "IN-OR"
+    ],
+    "bhubaneswar": [
+      "IN-OR"
+    ],
+    "j": [
+      "IN-RJ"
+    ],
+    "ja": [
+      "IN-RJ"
+    ],
+    "jai": [
+      "IN-RJ"
+    ],
+    "jaip": [
+      "IN-RJ"
+    ],
+    "jaipu": [
+      "IN-RJ"
+    ],
+    "jaipur": [
+      "IN-RJ"
+    ],
+    "gang": [
+      "IN-SK"
+    ],
+    "gangt": [
+      "IN-SK"
+    ],
+    "gangto": [
+      "IN-SK"
+    ],
+    "gangtok": [
+      "IN-SK"
+    ],
+    "che": [
+      "IN-TN"
+    ],
+    "chen": [
+      "IN-TN"
+    ],
+    "chenn": [
+      "IN-TN"
+    ],
+    "chenna": [
+      "IN-TN"
+    ],
+    "chennai": [
+      "IN-TN"
+    ],
+    "h": [
+      "IN-TS"
+    ],
+    "hy": [
+      "IN-TS"
+    ],
+    "hyd": [
+      "IN-TS"
+    ],
+    "hyde": [
+      "IN-TS"
+    ],
+    "hyder": [
+      "IN-TS"
+    ],
+    "hydera": [
+      "IN-TS"
+    ],
+    "hyderab": [
+      "IN-TS"
+    ],
+    "hyderaba": [
+      "IN-TS"
+    ],
+    "hyderabad": [
+      "IN-TS"
+    ],
+    "ag": [
+      "IN-TR"
+    ],
+    "aga": [
+      "IN-TR"
+    ],
+    "agar": [
+      "IN-TR"
+    ],
+    "agart": [
+      "IN-TR"
+    ],
+    "agarta": [
+      "IN-TR"
+    ],
+    "agartal": [
+      "IN-TR"
+    ],
+    "agartala": [
+      "IN-TR"
+    ],
+    "l": [
+      "IN-UP",
+      "IN-LA"
+    ],
+    "lu": [
+      "IN-UP"
+    ],
+    "luc": [
+      "IN-UP"
+    ],
+    "luck": [
+      "IN-UP"
+    ],
+    "luckn": [
+      "IN-UP"
+    ],
+    "luckno": [
+      "IN-UP"
+    ],
+    "lucknow": [
+      "IN-UP"
+    ],
+    "de": [
+      "IN-UK"
+    ],
+    "deh": [
+      "IN-UK"
+    ],
+    "dehr": [
+      "IN-UK"
+    ],
+    "dehra": [
+      "IN-UK"
+    ],
+    "dehrad": [
+      "IN-UK"
+    ],
+    "dehradu": [
+      "IN-UK"
+    ],
+    "dehradun": [
+      "IN-UK"
+    ],
+    "kol": [
+      "IN-WB"
+    ],
+    "kolk": [
+      "IN-WB"
+    ],
+    "kolka": [
+      "IN-WB"
+    ],
+    "kolkat": [
+      "IN-WB"
+    ],
+    "kolkata": [
+      "IN-WB"
+    ],
+    "po": [
+      "IN-AN"
+    ],
+    "por": [
+      "IN-AN"
+    ],
+    "port": [
+      "IN-AN"
+    ],
+    "port ": [
+      "IN-AN"
+    ],
+    "port b": [
+      "IN-AN"
+    ],
+    "port bl": [
+      "IN-AN"
+    ],
+    "port bla": [
+      "IN-AN"
+    ],
+    "port blai": [
+      "IN-AN"
+    ],
+    "port blair": [
+      "IN-AN"
+    ],
+    "da": [
+      "IN-DN"
+    ],
+    "dam": [
+      "IN-DN"
+    ],
+    "dama": [
+      "IN-DN"
+    ],
+    "daman": [
+      "IN-DN"
+    ],
+    "n": [
+      "IN-DL"
+    ],
+    "ne": [
+      "IN-DL"
+    ],
+    "new": [
+      "IN-DL"
+    ],
+    "new ": [
+      "IN-DL"
+    ],
+    "new d": [
+      "IN-DL"
+    ],
+    "new de": [
+      "IN-DL"
+    ],
+    "new del": [
+      "IN-DL"
+    ],
+    "new delh": [
+      "IN-DL"
+    ],
+    "new delhi": [
+      "IN-DL"
+    ],
+    "sr": [
+      "IN-JK"
+    ],
+    "sri": [
+      "IN-JK"
+    ],
+    "srin": [
+      "IN-JK"
+    ],
+    "srina": [
+      "IN-JK"
+    ],
+    "srinag": [
+      "IN-JK"
+    ],
+    "srinaga": [
+      "IN-JK"
+    ],
+    "srinagar": [
+      "IN-JK"
+    ],
+    "srinagar ": [
+      "IN-JK"
+    ],
+    "srinagar (": [
+      "IN-JK"
+    ],
+    "srinagar (s": [
+      "IN-JK"
+    ],
+    "srinagar (su": [
+      "IN-JK"
+    ],
+    "srinagar (sum": [
+      "IN-JK"
+    ],
+    "srinagar (summ": [
+      "IN-JK"
+    ],
+    "srinagar (summe": [
+      "IN-JK"
+    ],
+    "srinagar (summer": [
+      "IN-JK"
+    ],
+    "srinagar (summer)": [
+      "IN-JK"
+    ],
+    "srinagar (summer),": [
+      "IN-JK"
+    ],
+    "srinagar (summer), ": [
+      "IN-JK"
+    ],
+    "srinagar (summer), j": [
+      "IN-JK"
+    ],
+    "srinagar (summer), ja": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jam": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jamm": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu ": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (w": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (wi": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (win": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (wint": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (winte": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (winter": [
+      "IN-JK"
+    ],
+    "srinagar (summer), jammu (winter)": [
+      "IN-JK"
+    ],
+    "le": [
+      "IN-LA"
+    ],
+    "leh": [
+      "IN-LA"
+    ],
+    "ka": [
+      "IN-LD"
+    ],
+    "kav": [
+      "IN-LD"
+    ],
+    "kava": [
+      "IN-LD"
+    ],
+    "kavar": [
+      "IN-LD"
+    ],
+    "kavara": [
+      "IN-LD"
+    ],
+    "kavarat": [
+      "IN-LD"
+    ],
+    "kavaratt": [
+      "IN-LD"
+    ],
+    "kavaratti": [
+      "IN-LD"
+    ],
+    "pu": [
+      "IN-PY"
+    ],
+    "pud": [
+      "IN-PY"
+    ],
+    "pudu": [
+      "IN-PY"
+    ],
+    "puduc": [
+      "IN-PY"
+    ],
+    "puduch": [
+      "IN-PY"
+    ],
+    "puduche": [
+      "IN-PY"
+    ],
+    "puducher": [
+      "IN-PY"
+    ],
+    "puducherr": [
+      "IN-PY"
+    ],
+    "puducherry": [
+      "IN-PY"
+    ]
+  },
+  "byId": {
+    "IN-AP": {
+      "id": "IN-AP",
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "status": "state",
+      "iso3166": "IN-AP",
+      "population": 49577103,
+      "area_km2": 162975,
+      "districts": 26,
+      "official_languages": [
+        "Telugu"
+      ],
+      "region": "south"
+    },
+    "IN-AR": {
+      "id": "IN-AR",
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "status": "state",
+      "iso3166": "IN-AR",
+      "population": 1383727,
+      "area_km2": 83743,
+      "districts": 25,
+      "official_languages": [
+        "English"
+      ],
+      "region": "northeast"
+    },
+    "IN-AS": {
+      "id": "IN-AS",
+      "name": "Assam",
+      "capital": "Dispur",
+      "status": "state",
+      "iso3166": "IN-AS",
+      "population": 31205576,
+      "area_km2": 78438,
+      "districts": 35,
+      "official_languages": [
+        "Assamese",
+        "Bengali",
+        "Bodo"
+      ],
+      "region": "northeast"
+    },
+    "IN-BR": {
+      "id": "IN-BR",
+      "name": "Bihar",
+      "capital": "Patna",
+      "status": "state",
+      "iso3166": "IN-BR",
+      "population": 104099452,
+      "area_km2": 94163,
+      "districts": 38,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "east"
+    },
+    "IN-CT": {
+      "id": "IN-CT",
+      "name": "Chhattisgarh",
+      "capital": "Raipur",
+      "status": "state",
+      "iso3166": "IN-CT",
+      "population": 25540196,
+      "area_km2": 135192,
+      "districts": 33,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "central"
+    },
+    "IN-GA": {
+      "id": "IN-GA",
+      "name": "Goa",
+      "capital": "Panaji",
+      "status": "state",
+      "iso3166": "IN-GA",
+      "population": 1586250,
+      "area_km2": 3702,
+      "districts": 2,
+      "official_languages": [
+        "Konkani"
+      ],
+      "region": "west"
+    },
+    "IN-GJ": {
+      "id": "IN-GJ",
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "status": "state",
+      "iso3166": "IN-GJ",
+      "population": 60439692,
+      "area_km2": 196024,
+      "districts": 33,
+      "official_languages": [
+        "Gujarati",
+        "Hindi"
+      ],
+      "region": "west"
+    },
+    "IN-HR": {
+      "id": "IN-HR",
+      "name": "Haryana",
+      "capital": "Chandigarh",
+      "status": "state",
+      "iso3166": "IN-HR",
+      "population": 25351462,
+      "area_km2": 44212,
+      "districts": 22,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "north"
+    },
+    "IN-HP": {
+      "id": "IN-HP",
+      "name": "Himachal Pradesh",
+      "capital": "Shimla",
+      "status": "state",
+      "iso3166": "IN-HP",
+      "population": 7451955,
+      "area_km2": 55673,
+      "districts": 12,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "north"
+    },
+    "IN-JH": {
+      "id": "IN-JH",
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "status": "state",
+      "iso3166": "IN-JH",
+      "population": 32988134,
+      "area_km2": 79714,
+      "districts": 24,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "east"
+    },
+    "IN-KA": {
+      "id": "IN-KA",
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "status": "state",
+      "iso3166": "IN-KA",
+      "population": 61095297,
+      "area_km2": 191791,
+      "districts": 31,
+      "official_languages": [
+        "Kannada"
+      ],
+      "region": "south"
+    },
+    "IN-KL": {
+      "id": "IN-KL",
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "status": "state",
+      "iso3166": "IN-KL",
+      "population": 34637431,
+      "area_km2": 38863,
+      "districts": 14,
+      "official_languages": [
+        "Malayalam"
+      ],
+      "region": "south"
+    },
+    "IN-MP": {
+      "id": "IN-MP",
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "status": "state",
+      "iso3166": "IN-MP",
+      "population": 72626809,
+      "area_km2": 308245,
+      "districts": 55,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "central"
+    },
+    "IN-MH": {
+      "id": "IN-MH",
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "status": "state",
+      "iso3166": "IN-MH",
+      "population": 112374333,
+      "area_km2": 307713,
+      "districts": 36,
+      "official_languages": [
+        "Marathi"
+      ],
+      "region": "west"
+    },
+    "IN-MN": {
+      "id": "IN-MN",
+      "name": "Manipur",
+      "capital": "Imphal",
+      "status": "state",
+      "iso3166": "IN-MN",
+      "population": 3091545,
+      "area_km2": 22327,
+      "districts": 16,
+      "official_languages": [
+        "Meiteilon (Manipuri)"
+      ],
+      "region": "northeast"
+    },
+    "IN-ML": {
+      "id": "IN-ML",
+      "name": "Meghalaya",
+      "capital": "Shillong",
+      "status": "state",
+      "iso3166": "IN-ML",
+      "population": 2964007,
+      "area_km2": 22429,
+      "districts": 12,
+      "official_languages": [
+        "English"
+      ],
+      "region": "northeast"
+    },
+    "IN-MZ": {
+      "id": "IN-MZ",
+      "name": "Mizoram",
+      "capital": "Aizawl",
+      "status": "state",
+      "iso3166": "IN-MZ",
+      "population": 1091014,
+      "area_km2": 21081,
+      "districts": 11,
+      "official_languages": [
+        "Mizo",
+        "English",
+        "Hindi"
+      ],
+      "region": "northeast"
+    },
+    "IN-NL": {
+      "id": "IN-NL",
+      "name": "Nagaland",
+      "capital": "Kohima",
+      "status": "state",
+      "iso3166": "IN-NL",
+      "population": 1988636,
+      "area_km2": 16579,
+      "districts": 16,
+      "official_languages": [
+        "English"
+      ],
+      "region": "northeast"
+    },
+    "IN-OR": {
+      "id": "IN-OR",
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "status": "state",
+      "iso3166": "IN-OR",
+      "population": 41974218,
+      "area_km2": 155707,
+      "districts": 30,
+      "official_languages": [
+        "Odia"
+      ],
+      "region": "east"
+    },
+    "IN-PB": {
+      "id": "IN-PB",
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "status": "state",
+      "iso3166": "IN-PB",
+      "population": 27704236,
+      "area_km2": 50362,
+      "districts": 23,
+      "official_languages": [
+        "Punjabi"
+      ],
+      "region": "north"
+    },
+    "IN-RJ": {
+      "id": "IN-RJ",
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "status": "state",
+      "iso3166": "IN-RJ",
+      "population": 68548437,
+      "area_km2": 342239,
+      "districts": 41,
+      "official_languages": [
+        "Hindi"
+      ],
+      "region": "north"
+    },
+    "IN-SK": {
+      "id": "IN-SK",
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "status": "state",
+      "iso3166": "IN-SK",
+      "population": 610577,
+      "area_km2": 7096,
+      "districts": 6,
+      "official_languages": [
+        "Nepali",
+        "English",
+        "Hindi"
+      ],
+      "region": "northeast"
+    },
+    "IN-TN": {
+      "id": "IN-TN",
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "status": "state",
+      "iso3166": "IN-TN",
+      "population": 72147030,
+      "area_km2": 130058,
+      "districts": 38,
+      "official_languages": [
+        "Tamil"
+      ],
+      "region": "south"
+    },
+    "IN-TS": {
+      "id": "IN-TS",
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "status": "state",
+      "iso3166": "IN-TS",
+      "population": 35003674,
+      "area_km2": 112077,
+      "districts": 33,
+      "official_languages": [
+        "Telugu",
+        "Urdu"
+      ],
+      "region": "south"
+    },
+    "IN-TR": {
+      "id": "IN-TR",
+      "name": "Tripura",
+      "capital": "Agartala",
+      "status": "state",
+      "iso3166": "IN-TR",
+      "population": 3671032,
+      "area_km2": 10486,
+      "districts": 8,
+      "official_languages": [
+        "Bengali",
+        "Kokborok",
+        "English"
+      ],
+      "region": "northeast"
+    },
+    "IN-UP": {
+      "id": "IN-UP",
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "status": "state",
+      "iso3166": "IN-UP",
+      "population": 199812341,
+      "area_km2": 240928,
+      "districts": 75,
+      "official_languages": [
+        "Hindi",
+        "Urdu"
+      ],
+      "region": "north"
+    },
+    "IN-UK": {
+      "id": "IN-UK",
+      "name": "Uttarakhand",
+      "capital": "Dehradun",
+      "status": "state",
+      "iso3166": "IN-UK",
+      "population": 10086292,
+      "area_km2": 53483,
+      "districts": 13,
+      "official_languages": [
+        "Hindi",
+        "Sanskrit"
+      ],
+      "region": "north"
+    },
+    "IN-WB": {
+      "id": "IN-WB",
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "status": "state",
+      "iso3166": "IN-WB",
+      "population": 91347736,
+      "area_km2": 88752,
+      "districts": 23,
+      "official_languages": [
+        "Bengali",
+        "English",
+        "Nepali",
+        "Hindi",
+        "Urdu"
+      ],
+      "region": "east"
+    },
+    "IN-AN": {
+      "id": "IN-AN",
+      "name": "Andaman and Nicobar Islands",
+      "capital": "Port Blair",
+      "status": "union-territory",
+      "iso3166": "IN-AN",
+      "population": 380581,
+      "area_km2": 8249,
+      "districts": 3,
+      "official_languages": [
+        "Hindi",
+        "English"
+      ],
+      "region": "northeast"
+    },
+    "IN-CH": {
+      "id": "IN-CH",
+      "name": "Chandigarh",
+      "capital": "Chandigarh",
+      "status": "union-territory",
+      "iso3166": "IN-CH",
+      "population": 1158475,
+      "area_km2": 114,
+      "districts": 1,
+      "official_languages": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ],
+      "region": "north"
+    },
+    "IN-DN": {
+      "id": "IN-DN",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "capital": "Daman",
+      "status": "union-territory",
+      "iso3166": "IN-DN",
+      "population": 587106,
+      "area_km2": 603,
+      "districts": 3,
+      "official_languages": [
+        "Gujarati",
+        "Hindi",
+        "English"
+      ],
+      "region": "west"
+    },
+    "IN-DL": {
+      "id": "IN-DL",
+      "name": "Delhi",
+      "capital": "New Delhi",
+      "status": "union-territory",
+      "iso3166": "IN-DL",
+      "population": 16787941,
+      "area_km2": 1484,
+      "districts": 11,
+      "official_languages": [
+        "Hindi",
+        "English",
+        "Punjabi",
+        "Urdu"
+      ],
+      "region": "north"
+    },
+    "IN-JK": {
+      "id": "IN-JK",
+      "name": "Jammu and Kashmir",
+      "capital": "Srinagar (Summer), Jammu (Winter)",
+      "status": "union-territory",
+      "iso3166": "IN-JK",
+      "population": 12267013,
+      "area_km2": 42241,
+      "districts": 20,
+      "official_languages": [
+        "Dogri",
+        "English",
+        "Hindi",
+        "Kashmiri",
+        "Urdu"
+      ],
+      "region": "north"
+    },
+    "IN-LA": {
+      "id": "IN-LA",
+      "name": "Ladakh",
+      "capital": "Leh",
+      "status": "union-territory",
+      "iso3166": "IN-LA",
+      "population": 290492,
+      "area_km2": 59146,
+      "districts": 2,
+      "official_languages": [
+        "Hindi",
+        "English"
+      ],
+      "region": "north"
+    },
+    "IN-LD": {
+      "id": "IN-LD",
+      "name": "Lakshadweep",
+      "capital": "Kavaratti",
+      "status": "union-territory",
+      "iso3166": "IN-LD",
+      "population": 64473,
+      "area_km2": 32,
+      "districts": 1,
+      "official_languages": [
+        "Malayalam",
+        "English"
+      ],
+      "region": "south"
+    },
+    "IN-PY": {
+      "id": "IN-PY",
+      "name": "Puducherry",
+      "capital": "Puducherry",
+      "status": "union-territory",
+      "iso3166": "IN-PY",
+      "population": 1504000,
+      "area_km2": 479,
+      "districts": 4,
+      "official_languages": [
+        "French",
+        "Tamil",
+        "Malayalam",
+        "Telugu",
+        "English"
+      ],
+      "region": "south"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "IN-HP",
+  "name": "Himachal Pradesh",
+  "capital": "Shimla",
+  "status": "state",
+  "iso3166": "IN-HP",
+  "population": 7451955,
+  "area_km2": 55673,
+  "districts": 12,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "north"
+}

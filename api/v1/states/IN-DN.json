@@ -1,0 +1,16 @@
+{
+  "id": "IN-DN",
+  "name": "Dadra and Nagar Haveli and Daman and Diu",
+  "capital": "Daman",
+  "status": "union-territory",
+  "iso3166": "IN-DN",
+  "population": 587106,
+  "area_km2": 603,
+  "districts": 3,
+  "official_languages": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "region": "west"
+}

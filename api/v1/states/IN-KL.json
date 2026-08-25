@@ -1,0 +1,14 @@
+{
+  "id": "IN-KL",
+  "name": "Kerala",
+  "capital": "Thiruvananthapuram",
+  "status": "state",
+  "iso3166": "IN-KL",
+  "population": 34637431,
+  "area_km2": 38863,
+  "districts": 14,
+  "official_languages": [
+    "Malayalam"
+  ],
+  "region": "south"
+}

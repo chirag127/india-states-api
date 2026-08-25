@@ -1,0 +1,18 @@
+{
+  "id": "IN-WB",
+  "name": "West Bengal",
+  "capital": "Kolkata",
+  "status": "state",
+  "iso3166": "IN-WB",
+  "population": 91347736,
+  "area_km2": 88752,
+  "districts": 23,
+  "official_languages": [
+    "Bengali",
+    "English",
+    "Nepali",
+    "Hindi",
+    "Urdu"
+  ],
+  "region": "east"
+}

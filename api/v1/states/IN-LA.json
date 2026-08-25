@@ -1,0 +1,15 @@
+{
+  "id": "IN-LA",
+  "name": "Ladakh",
+  "capital": "Leh",
+  "status": "union-territory",
+  "iso3166": "IN-LA",
+  "population": 290492,
+  "area_km2": 59146,
+  "districts": 2,
+  "official_languages": [
+    "Hindi",
+    "English"
+  ],
+  "region": "north"
+}

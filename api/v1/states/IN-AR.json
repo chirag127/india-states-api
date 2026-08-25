@@ -1,0 +1,14 @@
+{
+  "id": "IN-AR",
+  "name": "Arunachal Pradesh",
+  "capital": "Itanagar",
+  "status": "state",
+  "iso3166": "IN-AR",
+  "population": 1383727,
+  "area_km2": 83743,
+  "districts": 25,
+  "official_languages": [
+    "English"
+  ],
+  "region": "northeast"
+}

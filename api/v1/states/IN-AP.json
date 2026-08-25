@@ -1,0 +1,14 @@
+{
+  "id": "IN-AP",
+  "name": "Andhra Pradesh",
+  "capital": "Amaravati",
+  "status": "state",
+  "iso3166": "IN-AP",
+  "population": 49577103,
+  "area_km2": 162975,
+  "districts": 26,
+  "official_languages": [
+    "Telugu"
+  ],
+  "region": "south"
+}

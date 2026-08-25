@@ -1,0 +1,18 @@
+{
+  "id": "IN-PY",
+  "name": "Puducherry",
+  "capital": "Puducherry",
+  "status": "union-territory",
+  "iso3166": "IN-PY",
+  "population": 1504000,
+  "area_km2": 479,
+  "districts": 4,
+  "official_languages": [
+    "French",
+    "Tamil",
+    "Malayalam",
+    "Telugu",
+    "English"
+  ],
+  "region": "south"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "IN-BR",
+  "name": "Bihar",
+  "capital": "Patna",
+  "status": "state",
+  "iso3166": "IN-BR",
+  "population": 104099452,
+  "area_km2": 94163,
+  "districts": 38,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "east"
+}

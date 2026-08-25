@@ -1,0 +1,16 @@
+{
+  "id": "IN-TR",
+  "name": "Tripura",
+  "capital": "Agartala",
+  "status": "state",
+  "iso3166": "IN-TR",
+  "population": 3671032,
+  "area_km2": 10486,
+  "districts": 8,
+  "official_languages": [
+    "Bengali",
+    "Kokborok",
+    "English"
+  ],
+  "region": "northeast"
+}

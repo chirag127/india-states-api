@@ -1,0 +1,14 @@
+{
+  "id": "IN-TN",
+  "name": "Tamil Nadu",
+  "capital": "Chennai",
+  "status": "state",
+  "iso3166": "IN-TN",
+  "population": 72147030,
+  "area_km2": 130058,
+  "districts": 38,
+  "official_languages": [
+    "Tamil"
+  ],
+  "region": "south"
+}

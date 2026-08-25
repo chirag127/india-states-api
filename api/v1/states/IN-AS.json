@@ -1,0 +1,16 @@
+{
+  "id": "IN-AS",
+  "name": "Assam",
+  "capital": "Dispur",
+  "status": "state",
+  "iso3166": "IN-AS",
+  "population": 31205576,
+  "area_km2": 78438,
+  "districts": 35,
+  "official_languages": [
+    "Assamese",
+    "Bengali",
+    "Bodo"
+  ],
+  "region": "northeast"
+}

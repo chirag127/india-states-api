@@ -1,0 +1,16 @@
+{
+  "id": "IN-CH",
+  "name": "Chandigarh",
+  "capital": "Chandigarh",
+  "status": "union-territory",
+  "iso3166": "IN-CH",
+  "population": 1158475,
+  "area_km2": 114,
+  "districts": 1,
+  "official_languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "region": "north"
+}

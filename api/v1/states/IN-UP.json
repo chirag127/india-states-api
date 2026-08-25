@@ -1,0 +1,15 @@
+{
+  "id": "IN-UP",
+  "name": "Uttar Pradesh",
+  "capital": "Lucknow",
+  "status": "state",
+  "iso3166": "IN-UP",
+  "population": 199812341,
+  "area_km2": 240928,
+  "districts": 75,
+  "official_languages": [
+    "Hindi",
+    "Urdu"
+  ],
+  "region": "north"
+}

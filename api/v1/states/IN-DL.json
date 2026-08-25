@@ -1,0 +1,17 @@
+{
+  "id": "IN-DL",
+  "name": "Delhi",
+  "capital": "New Delhi",
+  "status": "union-territory",
+  "iso3166": "IN-DL",
+  "population": 16787941,
+  "area_km2": 1484,
+  "districts": 11,
+  "official_languages": [
+    "Hindi",
+    "English",
+    "Punjabi",
+    "Urdu"
+  ],
+  "region": "north"
+}

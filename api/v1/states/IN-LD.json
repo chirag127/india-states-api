@@ -1,0 +1,15 @@
+{
+  "id": "IN-LD",
+  "name": "Lakshadweep",
+  "capital": "Kavaratti",
+  "status": "union-territory",
+  "iso3166": "IN-LD",
+  "population": 64473,
+  "area_km2": 32,
+  "districts": 1,
+  "official_languages": [
+    "Malayalam",
+    "English"
+  ],
+  "region": "south"
+}

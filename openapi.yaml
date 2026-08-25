@@ -1,0 +1,228 @@
+openapi: 3.1.0
+info:
+  title: India States API
+  description: >
+    All 28 states and 8 union territories of India with ISO codes, capitals,
+    population, area, and districts count. Static JSON API served via GitHub Pages.
+  version: 1.0.0
+  license:
+    name: CC-BY-4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+  contact:
+    name: Oriz Free Public APIs
+    url: https://oriz.in/apis/india-states
+servers:
+  - url: https://chirag127.github.io/india-states-api
+    description: GitHub Pages
+paths:
+  /api/v1/states.json:
+    get:
+      summary: List all states and union territories
+      description: Returns the complete dataset of 36 records (28 states + 8 UTs).
+      operationId: listStates
+      responses:
+        '200':
+          description: JSON array of State objects
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/State'
+              examples:
+                all:
+                  summary: All states and UTs
+                  value:
+                    - id: IN-AP
+                      name: Andhra Pradesh
+                      capital: Amaravati
+                      status: state
+                      iso3166: IN-AP
+                      population: 49577103
+                      area_km2: 162975
+                      districts: 26
+                    - id: IN-DL
+                      name: Delhi
+                      capital: New Delhi
+                      status: union-territory
+                      iso3166: IN-DL
+                      population: 16787941
+                      area_km2: 1484
+                      districts: 11
+  /api/v1/states/{id}.json:
+    get:
+      summary: Get a single state or union territory
+      description: Returns one record by its ISO 3166-2 code.
+      operationId: getState
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^IN-[A-Z]{2}$'
+          examples:
+            maharashtra:
+              value: IN-MH
+            delhi:
+              value: IN-DL
+      responses:
+        '200':
+          description: State object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/State'
+        '404':
+          description: State not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/v1/search.json:
+    get:
+      summary: Search states and UTs
+      description: Case-insensitive prefix search on name and capital.
+      operationId: searchStates
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+            minLength: 1
+            maxLength: 100
+          examples:
+            mah:
+              value: mah
+            del:
+              value: del
+      responses:
+        '200':
+          description: Matching states
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  query:
+                    type: string
+                  results:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/State'
+                  count:
+                    type: integer
+        '400':
+          description: Missing or invalid query
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/v1/meta.json:
+    get:
+      summary: Dataset metadata
+      description: Freshness, record count, source status, and schema version.
+      operationId: getMeta
+      responses:
+        '200':
+          description: Metadata object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Meta'
+components:
+  schemas:
+    State:
+      type: object
+      required:
+        - id
+        - name
+        - capital
+        - status
+      properties:
+        id:
+          type: string
+          description: ISO 3166-2 code (e.g. IN-MH)
+          pattern: '^IN-[A-Z]{2}$'
+        name:
+          type: string
+          description: Official name of the state/UT
+        capital:
+          type: string
+          description: Capital city
+        status:
+          type: string
+          enum: [state, union-territory]
+          description: Constitutional status
+        iso3166:
+          type: string
+          description: Full ISO 3166-2 identifier
+        population:
+          type: integer
+          description: Population as per latest Census
+        area_km2:
+          type: number
+          description: Area in square kilometres
+        districts:
+          type: integer
+          description: Number of districts
+        official_languages:
+          type: array
+          items:
+            type: string
+        region:
+          type: string
+          enum: [north, south, east, west, central, northeast]
+    Meta:
+      type: object
+      required:
+        - status
+        - lastUpdated
+        - recordCount
+        - version
+      properties:
+        status:
+          type: string
+          enum: [healthy, stale, failed]
+        lastUpdated:
+          type: string
+          format: date-time
+        sourceUpdatedAt:
+          type: string
+          format: date-time
+        retrievedAt:
+          type: string
+          format: date-time
+        recordCount:
+          type: integer
+        version:
+          type: string
+        schemaVersion:
+          type: string
+        source:
+          type: string
+        sourceUrl:
+          type: string
+        license:
+          type: string
+        updateCadence:
+          type: string
+        nextUpdateDue:
+          type: string
+          format: date-time
+        lastFailedAt:
+          type: string
+          format: date-time
+        failureReason:
+          type: string
+    Error:
+      type: object
+      required:
+        - error
+        - message
+      properties:
+        error:
+          type: string
+        message:
+          type: string

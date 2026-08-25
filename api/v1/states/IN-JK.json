@@ -1,0 +1,18 @@
+{
+  "id": "IN-JK",
+  "name": "Jammu and Kashmir",
+  "capital": "Srinagar (Summer), Jammu (Winter)",
+  "status": "union-territory",
+  "iso3166": "IN-JK",
+  "population": 12267013,
+  "area_km2": 42241,
+  "districts": 20,
+  "official_languages": [
+    "Dogri",
+    "English",
+    "Hindi",
+    "Kashmiri",
+    "Urdu"
+  ],
+  "region": "north"
+}

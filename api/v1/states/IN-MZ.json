@@ -1,0 +1,16 @@
+{
+  "id": "IN-MZ",
+  "name": "Mizoram",
+  "capital": "Aizawl",
+  "status": "state",
+  "iso3166": "IN-MZ",
+  "population": 1091014,
+  "area_km2": 21081,
+  "districts": 11,
+  "official_languages": [
+    "Mizo",
+    "English",
+    "Hindi"
+  ],
+  "region": "northeast"
+}

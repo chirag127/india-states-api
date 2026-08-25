@@ -1,0 +1,14 @@
+{
+  "id": "IN-JH",
+  "name": "Jharkhand",
+  "capital": "Ranchi",
+  "status": "state",
+  "iso3166": "IN-JH",
+  "population": 32988134,
+  "area_km2": 79714,
+  "districts": 24,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "east"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "IN-RJ",
+  "name": "Rajasthan",
+  "capital": "Jaipur",
+  "status": "state",
+  "iso3166": "IN-RJ",
+  "population": 68548437,
+  "area_km2": 342239,
+  "districts": 41,
+  "official_languages": [
+    "Hindi"
+  ],
+  "region": "north"
+}

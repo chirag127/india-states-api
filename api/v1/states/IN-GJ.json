@@ -1,0 +1,15 @@
+{
+  "id": "IN-GJ",
+  "name": "Gujarat",
+  "capital": "Gandhinagar",
+  "status": "state",
+  "iso3166": "IN-GJ",
+  "population": 60439692,
+  "area_km2": 196024,
+  "districts": 33,
+  "official_languages": [
+    "Gujarati",
+    "Hindi"
+  ],
+  "region": "west"
+}

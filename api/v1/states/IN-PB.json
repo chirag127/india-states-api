@@ -1,0 +1,14 @@
+{
+  "id": "IN-PB",
+  "name": "Punjab",
+  "capital": "Chandigarh",
+  "status": "state",
+  "iso3166": "IN-PB",
+  "population": 27704236,
+  "area_km2": 50362,
+  "districts": 23,
+  "official_languages": [
+    "Punjabi"
+  ],
+  "region": "north"
+}

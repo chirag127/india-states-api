@@ -1,0 +1,20 @@
+{
+  "name": "india-states-api",
+  "version": "1.0.0",
+  "description": "All 28 states and 8 union territories of India. Static JSON API.",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/validate-schema.test.cjs",
+    "validate": "node scripts/validate.cjs",
+    "build": "node scripts/generate-individual.cjs && node scripts/generate-search-index.cjs && node scripts/generate-meta.cjs",
+    "scrape": "node scraper/index.cjs",
+    "deploy": "echo 'Deploy via GitHub Actions: .github/workflows/deploy.yml'"
+  },
+  "keywords": ["india", "states", "api", "json", "static", "github-pages"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chirag127/india-states-api.git"
+  },
+  "homepage": "https://chirag127.github.io/india-states-api/"
+}

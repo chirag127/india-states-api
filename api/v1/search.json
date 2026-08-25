@@ -1,0 +1,11 @@
+{
+  "_comment": "This is a dynamic endpoint. For static hosting, use the search-index.json + client-side JS, or redirect to a Cloudflare Worker.",
+  "note": "Use /api/v1/search-index.json for client-side search. This file is a placeholder.",
+  "example": {
+    "query": "mah",
+    "results": [
+      { "id": "IN-MH", "name": "Maharashtra", "capital": "Mumbai", "status": "state" }
+    ],
+    "count": 1
+  }
+}

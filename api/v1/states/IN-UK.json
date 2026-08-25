@@ -1,0 +1,15 @@
+{
+  "id": "IN-UK",
+  "name": "Uttarakhand",
+  "capital": "Dehradun",
+  "status": "state",
+  "iso3166": "IN-UK",
+  "population": 10086292,
+  "area_km2": 53483,
+  "districts": 13,
+  "official_languages": [
+    "Hindi",
+    "Sanskrit"
+  ],
+  "region": "north"
+}

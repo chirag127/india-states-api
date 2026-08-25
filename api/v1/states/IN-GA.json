@@ -1,0 +1,14 @@
+{
+  "id": "IN-GA",
+  "name": "Goa",
+  "capital": "Panaji",
+  "status": "state",
+  "iso3166": "IN-GA",
+  "population": 1586250,
+  "area_km2": 3702,
+  "districts": 2,
+  "official_languages": [
+    "Konkani"
+  ],
+  "region": "west"
+}

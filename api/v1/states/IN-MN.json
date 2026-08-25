@@ -1,0 +1,14 @@
+{
+  "id": "IN-MN",
+  "name": "Manipur",
+  "capital": "Imphal",
+  "status": "state",
+  "iso3166": "IN-MN",
+  "population": 3091545,
+  "area_km2": 22327,
+  "districts": 16,
+  "official_languages": [
+    "Meiteilon (Manipuri)"
+  ],
+  "region": "northeast"
+}

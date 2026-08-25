@@ -1,0 +1,16 @@
+{
+  "id": "IN-SK",
+  "name": "Sikkim",
+  "capital": "Gangtok",
+  "status": "state",
+  "iso3166": "IN-SK",
+  "population": 610577,
+  "area_km2": 7096,
+  "districts": 6,
+  "official_languages": [
+    "Nepali",
+    "English",
+    "Hindi"
+  ],
+  "region": "northeast"
+}

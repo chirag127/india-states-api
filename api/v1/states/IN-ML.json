@@ -1,0 +1,14 @@
+{
+  "id": "IN-ML",
+  "name": "Meghalaya",
+  "capital": "Shillong",
+  "status": "state",
+  "iso3166": "IN-ML",
+  "population": 2964007,
+  "area_km2": 22429,
+  "districts": 12,
+  "official_languages": [
+    "English"
+  ],
+  "region": "northeast"
+}

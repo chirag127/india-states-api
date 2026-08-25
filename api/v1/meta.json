@@ -1,0 +1,16 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T06:17:53.073Z",
+  "sourceUpdatedAt": "2026-08-25T06:17:53.074Z",
+  "retrievedAt": "2026-08-25T06:17:53.074Z",
+  "recordCount": 36,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "data.gov.in / Census of India",
+  "sourceUrl": "https://data.gov.in",
+  "license": "CC-BY-4.0",
+  "updateCadence": "manual",
+  "nextUpdateDue": "2026-11-23T06:17:53.074Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

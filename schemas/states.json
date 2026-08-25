@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/india-states-api/schemas/states.json",
+  "title": "India States and Union Territories",
+  "description": "All 28 states and 8 union territories of India",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/State"
+  },
+  "$defs": {
+    "State": {
+      "type": "object",
+      "required": ["id", "name", "capital", "status"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ISO 3166-2 code (e.g. IN-MH)",
+          "pattern": "^IN-[A-Z]{2}$"
+        },
+        "name": {
+          "type": "string",
+          "description": "Official name of the state/UT"
+        },
+        "capital": {
+          "type": "string",
+          "description": "Capital city"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["state", "union-territory"],
+          "description": "Constitutional status"
+        },
+        "iso3166": {
+          "type": "string",
+          "description": "Full ISO 3166-2 identifier"
+        },
+        "population": {
+          "type": "integer",
+          "description": "Population as per latest Census",
+          "minimum": 0
+        },
+        "area_km2": {
+          "type": "number",
+          "description": "Area in square kilometres",
+          "minimum": 0
+        },
+        "districts": {
+          "type": "integer",
+          "description": "Number of districts",
+          "minimum": 1
+        },
+        "official_languages": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Official languages"
+        },
+        "region": {
+          "type": "string",
+          "enum": ["north", "south", "east", "west", "central", "northeast"],
+          "description": "Geographic region"
+        }
+      }
+    }
+  }
+}

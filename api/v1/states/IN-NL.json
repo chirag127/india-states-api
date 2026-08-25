@@ -1,0 +1,14 @@
+{
+  "id": "IN-NL",
+  "name": "Nagaland",
+  "capital": "Kohima",
+  "status": "state",
+  "iso3166": "IN-NL",
+  "population": 1988636,
+  "area_km2": 16579,
+  "districts": 16,
+  "official_languages": [
+    "English"
+  ],
+  "region": "northeast"
+}
