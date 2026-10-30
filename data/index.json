@@ -1,0 +1,14 @@
+[
+  {
+    "id": "IN-AP",
+    "name": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "status": "pilot-fixture"
+  },
+  {
+    "id": "IN-MH",
+    "name": "Maharashtra",
+    "capital": "Mumbai",
+    "status": "pilot-fixture"
+  }
+]

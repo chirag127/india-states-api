@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "India States and Union Territories",
+    "description": "All 28 states and 8 union territories with ISO codes, capitals, population, area, and districts count",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/india-states",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "India States and Union Territories data",
+        "description": "All 28 states and 8 union territories with ISO codes, capitals, population, area, and districts count",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/states": {
+      "get": {
+        "summary": "India States and Union Territories",
+        "description": "All 28 states and 8 union territories with ISO codes, capitals, population, area, and districts count",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
