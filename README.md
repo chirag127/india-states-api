@@ -26,7 +26,7 @@ const karnataka = states.find((s) => s.id === "IN-KA");
 `id` | `IN-KA` | ISO 3166-2 subdivision code |
 `name` | `Karnataka` | Official English name |
 `capital` | `Bengaluru` | Seat of government |
-`status` | `state` or `union_territory` | Which of the two it is |
+`status` | `state` or `union-territory` | Which of the two it is |
 `population` | `61095297` | Census 2011 — the last complete count |
 `area_km2` | `191791` | Land area in square kilometres |
 `districts` | `31` | Number of districts |
