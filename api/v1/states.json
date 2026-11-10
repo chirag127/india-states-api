@@ -1,5 +1,20 @@
 [
   {
+    "id": "IN-AN",
+    "name": "Andaman and Nicobar Islands",
+    "capital": "Port Blair",
+    "status": "union-territory",
+    "iso3166": "IN-AN",
+    "population": 380581,
+    "area_km2": 8249,
+    "districts": 3,
+    "official_languages": [
+      "Hindi",
+      "English"
+    ],
+    "region": "northeast"
+  },
+  {
     "id": "IN-AP",
     "name": "Andhra Pradesh",
     "capital": "Amaravati",
@@ -8,7 +23,9 @@
     "population": 49577103,
     "area_km2": 162975,
     "districts": 26,
-    "official_languages": ["Telugu"],
+    "official_languages": [
+      "Telugu"
+    ],
     "region": "south"
   },
   {
@@ -20,7 +37,9 @@
     "population": 1383727,
     "area_km2": 83743,
     "districts": 25,
-    "official_languages": ["English"],
+    "official_languages": [
+      "English"
+    ],
     "region": "northeast"
   },
   {
@@ -32,7 +51,11 @@
     "population": 31205576,
     "area_km2": 78438,
     "districts": 35,
-    "official_languages": ["Assamese", "Bengali", "Bodo"],
+    "official_languages": [
+      "Assamese",
+      "Bengali",
+      "Bodo"
+    ],
     "region": "northeast"
   },
   {
@@ -44,308 +67,10 @@
     "population": 104099452,
     "area_km2": 94163,
     "districts": 38,
-    "official_languages": ["Hindi"],
+    "official_languages": [
+      "Hindi"
+    ],
     "region": "east"
-  },
-  {
-    "id": "IN-CT",
-    "name": "Chhattisgarh",
-    "capital": "Raipur",
-    "status": "state",
-    "iso3166": "IN-CT",
-    "population": 25540196,
-    "area_km2": 135192,
-    "districts": 33,
-    "official_languages": ["Hindi"],
-    "region": "central"
-  },
-  {
-    "id": "IN-GA",
-    "name": "Goa",
-    "capital": "Panaji",
-    "status": "state",
-    "iso3166": "IN-GA",
-    "population": 1586250,
-    "area_km2": 3702,
-    "districts": 2,
-    "official_languages": ["Konkani"],
-    "region": "west"
-  },
-  {
-    "id": "IN-GJ",
-    "name": "Gujarat",
-    "capital": "Gandhinagar",
-    "status": "state",
-    "iso3166": "IN-GJ",
-    "population": 60439692,
-    "area_km2": 196024,
-    "districts": 33,
-    "official_languages": ["Gujarati", "Hindi"],
-    "region": "west"
-  },
-  {
-    "id": "IN-HR",
-    "name": "Haryana",
-    "capital": "Chandigarh",
-    "status": "state",
-    "iso3166": "IN-HR",
-    "population": 25351462,
-    "area_km2": 44212,
-    "districts": 22,
-    "official_languages": ["Hindi"],
-    "region": "north"
-  },
-  {
-    "id": "IN-HP",
-    "name": "Himachal Pradesh",
-    "capital": "Shimla",
-    "status": "state",
-    "iso3166": "IN-HP",
-    "population": 7451955,
-    "area_km2": 55673,
-    "districts": 12,
-    "official_languages": ["Hindi"],
-    "region": "north"
-  },
-  {
-    "id": "IN-JH",
-    "name": "Jharkhand",
-    "capital": "Ranchi",
-    "status": "state",
-    "iso3166": "IN-JH",
-    "population": 32988134,
-    "area_km2": 79714,
-    "districts": 24,
-    "official_languages": ["Hindi"],
-    "region": "east"
-  },
-  {
-    "id": "IN-KA",
-    "name": "Karnataka",
-    "capital": "Bengaluru",
-    "status": "state",
-    "iso3166": "IN-KA",
-    "population": 61095297,
-    "area_km2": 191791,
-    "districts": 31,
-    "official_languages": ["Kannada"],
-    "region": "south"
-  },
-  {
-    "id": "IN-KL",
-    "name": "Kerala",
-    "capital": "Thiruvananthapuram",
-    "status": "state",
-    "iso3166": "IN-KL",
-    "population": 34637431,
-    "area_km2": 38863,
-    "districts": 14,
-    "official_languages": ["Malayalam"],
-    "region": "south"
-  },
-  {
-    "id": "IN-MP",
-    "name": "Madhya Pradesh",
-    "capital": "Bhopal",
-    "status": "state",
-    "iso3166": "IN-MP",
-    "population": 72626809,
-    "area_km2": 308245,
-    "districts": 55,
-    "official_languages": ["Hindi"],
-    "region": "central"
-  },
-  {
-    "id": "IN-MH",
-    "name": "Maharashtra",
-    "capital": "Mumbai",
-    "status": "state",
-    "iso3166": "IN-MH",
-    "population": 112374333,
-    "area_km2": 307713,
-    "districts": 36,
-    "official_languages": ["Marathi"],
-    "region": "west"
-  },
-  {
-    "id": "IN-MN",
-    "name": "Manipur",
-    "capital": "Imphal",
-    "status": "state",
-    "iso3166": "IN-MN",
-    "population": 3091545,
-    "area_km2": 22327,
-    "districts": 16,
-    "official_languages": ["Meiteilon (Manipuri)"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-ML",
-    "name": "Meghalaya",
-    "capital": "Shillong",
-    "status": "state",
-    "iso3166": "IN-ML",
-    "population": 2964007,
-    "area_km2": 22429,
-    "districts": 12,
-    "official_languages": ["English"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-MZ",
-    "name": "Mizoram",
-    "capital": "Aizawl",
-    "status": "state",
-    "iso3166": "IN-MZ",
-    "population": 1091014,
-    "area_km2": 21081,
-    "districts": 11,
-    "official_languages": ["Mizo", "English", "Hindi"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-NL",
-    "name": "Nagaland",
-    "capital": "Kohima",
-    "status": "state",
-    "iso3166": "IN-NL",
-    "population": 1988636,
-    "area_km2": 16579,
-    "districts": 16,
-    "official_languages": ["English"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-OR",
-    "name": "Odisha",
-    "capital": "Bhubaneswar",
-    "status": "state",
-    "iso3166": "IN-OR",
-    "population": 41974218,
-    "area_km2": 155707,
-    "districts": 30,
-    "official_languages": ["Odia"],
-    "region": "east"
-  },
-  {
-    "id": "IN-PB",
-    "name": "Punjab",
-    "capital": "Chandigarh",
-    "status": "state",
-    "iso3166": "IN-PB",
-    "population": 27704236,
-    "area_km2": 50362,
-    "districts": 23,
-    "official_languages": ["Punjabi"],
-    "region": "north"
-  },
-  {
-    "id": "IN-RJ",
-    "name": "Rajasthan",
-    "capital": "Jaipur",
-    "status": "state",
-    "iso3166": "IN-RJ",
-    "population": 68548437,
-    "area_km2": 342239,
-    "districts": 41,
-    "official_languages": ["Hindi"],
-    "region": "north"
-  },
-  {
-    "id": "IN-SK",
-    "name": "Sikkim",
-    "capital": "Gangtok",
-    "status": "state",
-    "iso3166": "IN-SK",
-    "population": 610577,
-    "area_km2": 7096,
-    "districts": 6,
-    "official_languages": ["Nepali", "English", "Hindi"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-TN",
-    "name": "Tamil Nadu",
-    "capital": "Chennai",
-    "status": "state",
-    "iso3166": "IN-TN",
-    "population": 72147030,
-    "area_km2": 130058,
-    "districts": 38,
-    "official_languages": ["Tamil"],
-    "region": "south"
-  },
-  {
-    "id": "IN-TS",
-    "name": "Telangana",
-    "capital": "Hyderabad",
-    "status": "state",
-    "iso3166": "IN-TS",
-    "population": 35003674,
-    "area_km2": 112077,
-    "districts": 33,
-    "official_languages": ["Telugu", "Urdu"],
-    "region": "south"
-  },
-  {
-    "id": "IN-TR",
-    "name": "Tripura",
-    "capital": "Agartala",
-    "status": "state",
-    "iso3166": "IN-TR",
-    "population": 3671032,
-    "area_km2": 10486,
-    "districts": 8,
-    "official_languages": ["Bengali", "Kokborok", "English"],
-    "region": "northeast"
-  },
-  {
-    "id": "IN-UP",
-    "name": "Uttar Pradesh",
-    "capital": "Lucknow",
-    "status": "state",
-    "iso3166": "IN-UP",
-    "population": 199812341,
-    "area_km2": 240928,
-    "districts": 75,
-    "official_languages": ["Hindi", "Urdu"],
-    "region": "north"
-  },
-  {
-    "id": "IN-UK",
-    "name": "Uttarakhand",
-    "capital": "Dehradun",
-    "status": "state",
-    "iso3166": "IN-UK",
-    "population": 10086292,
-    "area_km2": 53483,
-    "districts": 13,
-    "official_languages": ["Hindi", "Sanskrit"],
-    "region": "north"
-  },
-  {
-    "id": "IN-WB",
-    "name": "West Bengal",
-    "capital": "Kolkata",
-    "status": "state",
-    "iso3166": "IN-WB",
-    "population": 91347736,
-    "area_km2": 88752,
-    "districts": 23,
-    "official_languages": ["Bengali", "English", "Nepali", "Hindi", "Urdu"],
-    "region": "east"
-  },
-  {
-    "id": "IN-AN",
-    "name": "Andaman and Nicobar Islands",
-    "capital": "Port Blair",
-    "status": "union-territory",
-    "iso3166": "IN-AN",
-    "population": 380581,
-    "area_km2": 8249,
-    "districts": 3,
-    "official_languages": ["Hindi", "English"],
-    "region": "northeast"
   },
   {
     "id": "IN-CH",
@@ -356,7 +81,42 @@
     "population": 1158475,
     "area_km2": 114,
     "districts": 1,
-    "official_languages": ["English", "Hindi", "Punjabi"],
+    "official_languages": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "region": "north"
+  },
+  {
+    "id": "IN-CT",
+    "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "status": "state",
+    "iso3166": "IN-CT",
+    "population": 25540196,
+    "area_km2": 135192,
+    "districts": 33,
+    "official_languages": [
+      "Hindi"
+    ],
+    "region": "central"
+  },
+  {
+    "id": "IN-DL",
+    "name": "Delhi",
+    "capital": "New Delhi",
+    "status": "union-territory",
+    "iso3166": "IN-DL",
+    "population": 16787941,
+    "area_km2": 1484,
+    "districts": 11,
+    "official_languages": [
+      "Hindi",
+      "English",
+      "Punjabi",
+      "Urdu"
+    ],
     "region": "north"
   },
   {
@@ -368,20 +128,83 @@
     "population": 587106,
     "area_km2": 603,
     "districts": 3,
-    "official_languages": ["Gujarati", "Hindi", "English"],
+    "official_languages": [
+      "Gujarati",
+      "Hindi",
+      "English"
+    ],
     "region": "west"
   },
   {
-    "id": "IN-DL",
-    "name": "Delhi",
-    "capital": "New Delhi",
-    "status": "union-territory",
-    "iso3166": "IN-DL",
-    "population": 16787941,
-    "area_km2": 1484,
-    "districts": 11,
-    "official_languages": ["Hindi", "English", "Punjabi", "Urdu"],
+    "id": "IN-GA",
+    "name": "Goa",
+    "capital": "Panaji",
+    "status": "state",
+    "iso3166": "IN-GA",
+    "population": 1586250,
+    "area_km2": 3702,
+    "districts": 2,
+    "official_languages": [
+      "Konkani"
+    ],
+    "region": "west"
+  },
+  {
+    "id": "IN-GJ",
+    "name": "Gujarat",
+    "capital": "Gandhinagar",
+    "status": "state",
+    "iso3166": "IN-GJ",
+    "population": 60439692,
+    "area_km2": 196024,
+    "districts": 33,
+    "official_languages": [
+      "Gujarati",
+      "Hindi"
+    ],
+    "region": "west"
+  },
+  {
+    "id": "IN-HP",
+    "name": "Himachal Pradesh",
+    "capital": "Shimla",
+    "status": "state",
+    "iso3166": "IN-HP",
+    "population": 7451955,
+    "area_km2": 55673,
+    "districts": 12,
+    "official_languages": [
+      "Hindi"
+    ],
     "region": "north"
+  },
+  {
+    "id": "IN-HR",
+    "name": "Haryana",
+    "capital": "Chandigarh",
+    "status": "state",
+    "iso3166": "IN-HR",
+    "population": 25351462,
+    "area_km2": 44212,
+    "districts": 22,
+    "official_languages": [
+      "Hindi"
+    ],
+    "region": "north"
+  },
+  {
+    "id": "IN-JH",
+    "name": "Jharkhand",
+    "capital": "Ranchi",
+    "status": "state",
+    "iso3166": "IN-JH",
+    "population": 32988134,
+    "area_km2": 79714,
+    "districts": 24,
+    "official_languages": [
+      "Hindi"
+    ],
+    "region": "east"
   },
   {
     "id": "IN-JK",
@@ -392,8 +215,42 @@
     "population": 12267013,
     "area_km2": 42241,
     "districts": 20,
-    "official_languages": ["Dogri", "English", "Hindi", "Kashmiri", "Urdu"],
+    "official_languages": [
+      "Dogri",
+      "English",
+      "Hindi",
+      "Kashmiri",
+      "Urdu"
+    ],
     "region": "north"
+  },
+  {
+    "id": "IN-KA",
+    "name": "Karnataka",
+    "capital": "Bengaluru",
+    "status": "state",
+    "iso3166": "IN-KA",
+    "population": 61095297,
+    "area_km2": 191791,
+    "districts": 31,
+    "official_languages": [
+      "Kannada"
+    ],
+    "region": "south"
+  },
+  {
+    "id": "IN-KL",
+    "name": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "status": "state",
+    "iso3166": "IN-KL",
+    "population": 34637431,
+    "area_km2": 38863,
+    "districts": 14,
+    "official_languages": [
+      "Malayalam"
+    ],
+    "region": "south"
   },
   {
     "id": "IN-LA",
@@ -404,7 +261,10 @@
     "population": 290492,
     "area_km2": 59146,
     "districts": 2,
-    "official_languages": ["Hindi", "English"],
+    "official_languages": [
+      "Hindi",
+      "English"
+    ],
     "region": "north"
   },
   {
@@ -416,8 +276,125 @@
     "population": 64473,
     "area_km2": 32,
     "districts": 1,
-    "official_languages": ["Malayalam", "English"],
+    "official_languages": [
+      "Malayalam",
+      "English"
+    ],
     "region": "south"
+  },
+  {
+    "id": "IN-MH",
+    "name": "Maharashtra",
+    "capital": "Mumbai",
+    "status": "state",
+    "iso3166": "IN-MH",
+    "population": 112374333,
+    "area_km2": 307713,
+    "districts": 36,
+    "official_languages": [
+      "Marathi"
+    ],
+    "region": "west"
+  },
+  {
+    "id": "IN-ML",
+    "name": "Meghalaya",
+    "capital": "Shillong",
+    "status": "state",
+    "iso3166": "IN-ML",
+    "population": 2964007,
+    "area_km2": 22429,
+    "districts": 12,
+    "official_languages": [
+      "English"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-MN",
+    "name": "Manipur",
+    "capital": "Imphal",
+    "status": "state",
+    "iso3166": "IN-MN",
+    "population": 3091545,
+    "area_km2": 22327,
+    "districts": 16,
+    "official_languages": [
+      "Meiteilon (Manipuri)"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-MP",
+    "name": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "status": "state",
+    "iso3166": "IN-MP",
+    "population": 72626809,
+    "area_km2": 308245,
+    "districts": 55,
+    "official_languages": [
+      "Hindi"
+    ],
+    "region": "central"
+  },
+  {
+    "id": "IN-MZ",
+    "name": "Mizoram",
+    "capital": "Aizawl",
+    "status": "state",
+    "iso3166": "IN-MZ",
+    "population": 1091014,
+    "area_km2": 21081,
+    "districts": 11,
+    "official_languages": [
+      "Mizo",
+      "English",
+      "Hindi"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-NL",
+    "name": "Nagaland",
+    "capital": "Kohima",
+    "status": "state",
+    "iso3166": "IN-NL",
+    "population": 1988636,
+    "area_km2": 16579,
+    "districts": 16,
+    "official_languages": [
+      "English"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-OR",
+    "name": "Odisha",
+    "capital": "Bhubaneswar",
+    "status": "state",
+    "iso3166": "IN-OR",
+    "population": 41974218,
+    "area_km2": 155707,
+    "districts": 30,
+    "official_languages": [
+      "Odia"
+    ],
+    "region": "east"
+  },
+  {
+    "id": "IN-PB",
+    "name": "Punjab",
+    "capital": "Chandigarh",
+    "status": "state",
+    "iso3166": "IN-PB",
+    "population": 27704236,
+    "area_km2": 50362,
+    "districts": 23,
+    "official_languages": [
+      "Punjabi"
+    ],
+    "region": "north"
   },
   {
     "id": "IN-PY",
@@ -428,7 +405,136 @@
     "population": 1504000,
     "area_km2": 479,
     "districts": 4,
-    "official_languages": ["French", "Tamil", "Malayalam", "Telugu", "English"],
+    "official_languages": [
+      "French",
+      "Tamil",
+      "Malayalam",
+      "Telugu",
+      "English"
+    ],
     "region": "south"
+  },
+  {
+    "id": "IN-RJ",
+    "name": "Rajasthan",
+    "capital": "Jaipur",
+    "status": "state",
+    "iso3166": "IN-RJ",
+    "population": 68548437,
+    "area_km2": 342239,
+    "districts": 41,
+    "official_languages": [
+      "Hindi"
+    ],
+    "region": "north"
+  },
+  {
+    "id": "IN-SK",
+    "name": "Sikkim",
+    "capital": "Gangtok",
+    "status": "state",
+    "iso3166": "IN-SK",
+    "population": 610577,
+    "area_km2": 7096,
+    "districts": 6,
+    "official_languages": [
+      "Nepali",
+      "English",
+      "Hindi"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-TN",
+    "name": "Tamil Nadu",
+    "capital": "Chennai",
+    "status": "state",
+    "iso3166": "IN-TN",
+    "population": 72147030,
+    "area_km2": 130058,
+    "districts": 38,
+    "official_languages": [
+      "Tamil"
+    ],
+    "region": "south"
+  },
+  {
+    "id": "IN-TR",
+    "name": "Tripura",
+    "capital": "Agartala",
+    "status": "state",
+    "iso3166": "IN-TR",
+    "population": 3671032,
+    "area_km2": 10486,
+    "districts": 8,
+    "official_languages": [
+      "Bengali",
+      "Kokborok",
+      "English"
+    ],
+    "region": "northeast"
+  },
+  {
+    "id": "IN-TS",
+    "name": "Telangana",
+    "capital": "Hyderabad",
+    "status": "state",
+    "iso3166": "IN-TS",
+    "population": 35003674,
+    "area_km2": 112077,
+    "districts": 33,
+    "official_languages": [
+      "Telugu",
+      "Urdu"
+    ],
+    "region": "south"
+  },
+  {
+    "id": "IN-UK",
+    "name": "Uttarakhand",
+    "capital": "Dehradun",
+    "status": "state",
+    "iso3166": "IN-UK",
+    "population": 10086292,
+    "area_km2": 53483,
+    "districts": 13,
+    "official_languages": [
+      "Hindi",
+      "Sanskrit"
+    ],
+    "region": "north"
+  },
+  {
+    "id": "IN-UP",
+    "name": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "status": "state",
+    "iso3166": "IN-UP",
+    "population": 199812341,
+    "area_km2": 240928,
+    "districts": 75,
+    "official_languages": [
+      "Hindi",
+      "Urdu"
+    ],
+    "region": "north"
+  },
+  {
+    "id": "IN-WB",
+    "name": "West Bengal",
+    "capital": "Kolkata",
+    "status": "state",
+    "iso3166": "IN-WB",
+    "population": 91347736,
+    "area_km2": 88752,
+    "districts": 23,
+    "official_languages": [
+      "Bengali",
+      "English",
+      "Nepali",
+      "Hindi",
+      "Urdu"
+    ],
+    "region": "east"
   }
 ]
